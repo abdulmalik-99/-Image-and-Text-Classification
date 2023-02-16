@@ -62,7 +62,7 @@ Model 3: Used data augmentation techniques to handle imbalanced data. Data augme
 <details open>
 <summary>Usage</summary>
 
-I have built a web for testing Arabic Poetry Classifier...
+I have built a web for testing Emotion Recognition Classifier...
 ** Change the port number if it does not work. ** 
 ```
 python Image_Web.py
