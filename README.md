@@ -69,5 +69,6 @@ python Image_Web.py
 ```
 </details>
 
+Note ** you can get the models weights through this link https://drive.google.com/drive/folders/1SDZwp34qpolcAc15_AX6vwI8YFDx8F1V?usp=share_link 
 
 
